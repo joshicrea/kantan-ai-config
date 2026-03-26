@@ -1,5 +1,14 @@
 {
-  "enabled": true,
-  "text": "【初心者向け】IT苦手な起業家向けAIに関する情報交換チャット",
-  "url": "https://line.me/ti/g2/l2BfCDnfuZC6S246VIvoZ-kK-6Au_hakSXwAfw"
+  "ads": [
+    {
+      "enabled": true,
+      "text": "【初心者向け】IT苦手な起業家向けAIに関するビジネスでAIを活用するための無料情報交換チャット",
+      "url": "https://line.me/ti/g2/l2BfCDnfuZC6S246VIvoZ-kK-6Au_hakSXwAfw"
+    },
+    {
+      "enabled": true,
+      "text": "【無料】マーケティングAIに関する情報交換チャットで最新のAIノウハウについて公開中",
+      "url": "https://line.me/ti/g2/BDGaFi13wXjfKcdhe7p98b8sobBX8ZC17hJY0g"
+    }
+  ]
 }
